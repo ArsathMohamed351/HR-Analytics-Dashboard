@@ -3,6 +3,9 @@
 An interactive HR Analytics Dashboard built in **Power BI** to visualize and analyze workforce data.  
 The dashboard provides insights into employee demographics, headcount trends, salaries, departments, business units, and geographic distribution.
 
+##DataSet Used
+<a href='https://github.com/ArsathMohamed351/HR-Analytics-Dashboard/blob/main/Employee%20Sample%20Data.xlsx'> DataSet Used</a>
+
 ## Features
 - Key KPIs: Total Employees, Total Salary, and Average Salary
 - Employee Growth Trend by Year
