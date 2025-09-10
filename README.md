@@ -29,7 +29,7 @@ This dashboard helps HR teams and management:
 ## Preview
 <img width="1168" height="652" alt="image" src="https://github.com/user-attachments/assets/bb9d3f99-8fec-4ab3-908a-b08771199daf" />
 
-
+<a href='https://github.com/ArsathMohamed351/HR-Analytics-Dashboard/blob/main/HR%20DASHBOARD.pbix'>Dashboard</a>
 ## Getting Started
 1. Clone this repository.
 2. Download the `.pbix` file.
