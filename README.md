@@ -33,4 +33,3 @@ This dashboard helps HR teams and management:
 3. Open in Power BI Desktop to explore and customize.
 
 ---
-✨ Built as part of a Data Visualization project using Power BI.
