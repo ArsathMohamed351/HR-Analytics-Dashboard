@@ -24,7 +24,7 @@ This dashboard helps HR teams and management:
 - Support data-driven decision-making
 
 ## Preview
-<img width="1168" height="656" alt="HR DASHBOARD" src="https://github.com/user-attachments/assets/54b78d42-c85e-44af-87c9-daf1a71440ac" />
+<img width="1168" height="652" alt="image" src="https://github.com/user-attachments/assets/bb9d3f99-8fec-4ab3-908a-b08771199daf" />
 
 
 ## Getting Started
